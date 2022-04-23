@@ -1,0 +1,8 @@
+fastapi[all]
+razorpay==1.1.0
+PyMySQL
+python-decouple
+python-multipart
+aiofiles
+boto3
+pdfkit

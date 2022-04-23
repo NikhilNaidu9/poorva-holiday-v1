@@ -1,0 +1,335 @@
+{       
+  "package_id": "package1",
+  "package_title": "3 Sister’s Package",
+  "package_city": "Arunachal Pradesh, Assam, Meghalaya",
+  "package_info": "",
+  "package_cancellation_policy": ["If the Guest decides to cancel the tour for any reason whatsoever then he/she shall give a written application to the company within specified time limit along with original receipt issued by the Company. Such cancellatin will attract Cancellation charges stated hereunder.", "Cancellation charges will be calculated on gross tour cost and the cancellation charges shall depend on date of departure and date of cancellation.",
+  "Cancellation charges for any type of transport ticket are applicable as per the rules of the concerned authority.", "Air tickets issued on special fares are NON REFUNDABLE and Guest shall bear cancellation charges.", "Any refund payable to the Guest will be paid after the Company recieves refund from the respective authorities. The Company deducts processing charges from the refund to be paid to Guest."],
+  "package_lister": "admin",
+  "package_country": "India",
+  "package_total_days": 12,
+  "package_total_night": 11,
+  "package_start_date": "2022-02-19",
+  "package_end_date": "2022-02-26",
+  "package_offers": [
+    "string"
+  ],
+  "package_theme": [
+    "family"
+  ],
+  "package_season": "rainy",
+  "package_thumbail_link": "https://i.ibb.co/1b8bPTR/thumbnail.jpg",
+  "package_average_rating": 4,
+  "package_rate_per_person": 88888,
+  "package_itenary": "I3Sister_01",
+  "package_gallery_link": [
+    "https://images.unsplash.com/photo-1640885939079-9ce1a8c2b135?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80", "https://images.unsplash.com/photo-1640802105362-26b493a062c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80", "https://images.unsplash.com/photo-1640778707741-75e500f3a81f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80", "https://images.unsplash.com/photo-1640654204373-ccb1a0caa890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=878&q=80", "https://images.unsplash.com/photo-1614082164181-ff8380557f60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+  ],
+  "package_location": "domestic",
+  "package_hotel": [
+    "3Sister_hotel_1", "3Sister_hotel_2", "3Sister_hotel_3", "3Sister_hotel_4", "3Sister_hotel_5", "3Sister_hotel_6", "3Sister_hotel_7"
+  ],
+  "package_activities": [
+    "water"
+  ],
+  "package_availability": [
+    "avail1"
+  ],
+  "package_cost": "3Sister_cost",
+  "package_status": "top",
+  "package_stay": [
+      {
+          "location": "Shilong",
+          "hotel": "Hotel M Crown",
+          "nights": 3,
+          "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "rating": 4
+      },
+      {
+          "location": "Shilong",
+          "hotel": "Hotel IORA Retreat/United 21 Grasslands/Infinity Resort",
+          "nights": 2,
+          "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "rating": 4
+      },
+      {
+          "location": "Bhalukpong",
+          "hotel": "Hotel WALL International",
+          "nights": 1,
+          "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "rating": 4
+      },
+      {
+          "location": "Dirang",
+          "hotel": "Hotel Premaling Inn/Awoo",
+          "nights": 1,
+          "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "rating": 4
+      },
+      {
+          "location": "Tawang",
+          "hotel": "Hotel Yangzom",
+          "nights": 2,
+          "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "rating": 4
+      },
+      {
+          "location": "Bomdila",
+          "hotel": "Hotel Elysium/Tsepal Yangzom",
+          "nights": 1,
+          "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "rating": 4
+      },
+      {
+          "location": "Guwahati",
+          "hotel": "Hotel Raj Mahal/ Atithi",
+          "nights": 1,
+          "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "rating": 4
+      }
+  ]
+}
+
+
+{       
+    "package_id": "package2",
+    "package_title": "Andman & Nicobar Island",
+    "package_city": "Andman & Nicobar Island",
+    "package_info": "",
+    "package_cancellation_policy": ["If the Guest decides to cancel the tour for any reason whatsoever then he/she shall give a written application to the company within specified time limit along with original receipt issued by the Company. Such cancellatin will attract Cancellation charges stated hereunder.", "Cancellation charges will be calculated on gross tour cost and the cancellation charges shall depend on date of departure and date of cancellation.",
+    "Cancellation charges for any type of transport ticket are applicable as per the rules of the concerned authority.", "Air tickets issued on special fares are NON REFUNDABLE and Guest shall bear cancellation charges.", "Any refund payable to the Guest will be paid after the Company recieves refund from the respective authorities. The Company deducts processing charges from the refund to be paid to Guest."],
+    "package_lister": "admin",
+    "package_country": "India",
+    "package_total_days": 7,
+    "package_total_night": 6,
+    "package_start_date": "2022-02-06",
+    "package_end_date": "2022-02-13",
+    "package_offers": [
+      "string"
+    ],
+    "package_theme": [
+      "family"
+    ],
+    "package_season": "rainy",
+    "package_thumbail_link": "https://i.ibb.co/1b8bPTR/thumbnail.jpg",
+    "package_average_rating": 4,
+    "package_rate_per_person": 0,
+    "package_itenary": "Iandaman_nicobar_01",
+    "package_gallery_link": [
+      "https://images.unsplash.com/photo-1640885939079-9ce1a8c2b135?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80", "https://images.unsplash.com/photo-1640802105362-26b493a062c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80", "https://images.unsplash.com/photo-1640778707741-75e500f3a81f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80", "https://images.unsplash.com/photo-1640654204373-ccb1a0caa890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=878&q=80", "https://images.unsplash.com/photo-1614082164181-ff8380557f60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+    ],
+    "package_location": "domestic",
+    "package_hotel": [
+      "an_hotel_1", "an_hotel_2", "an_hotel_3"
+    ],
+    "package_activities": [
+      "water"
+    ],
+    "package_availability": [
+      "avail1"
+    ],
+    "package_cost": "andaman_nicobar_cost",
+    "package_status": "top",
+    "package_stay": [
+        {
+            "location": "Havelock",
+            "hotel": "Hotel Sea Shell",
+            "nights": 2,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+            "location": "Neil",
+            "hotel": "Hotel Sea Shell",
+            "nights": 1,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+            "location": "Port Blair",
+            "hotel": "Hotel Sea Shell",
+            "nights":   3,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        }
+    ]
+  }
+
+
+
+  {       
+    "package_id": "package3",
+    "package_title": "Sri Lanka",
+    "package_city": "Kandy, Bentota, Nuwara Eliya, Colombo",
+    "package_info": "",
+    "package_cancellation_policy": ["If the Guest decides to cancel the tour for any reason whatsoever then he/she shall give a written application to the company within specified time limit along with original receipt issued by the Company. Such cancellatin will attract Cancellation charges stated hereunder.", "Cancellation charges will be calculated on gross tour cost and the cancellation charges shall depend on date of departure and date of cancellation.",
+    "Cancellation charges for any type of transport ticket are applicable as per the rules of the concerned authority.", "Air tickets issued on special fares are NON REFUNDABLE and Guest shall bear cancellation charges.", "Any refund payable to the Guest will be paid after the Company recieves refund from the respective authorities. The Company deducts processing charges from the refund to be paid to Guest."],
+    "package_lister": "admin",
+    "package_country": "India",
+    "package_total_days": 8,
+    "package_total_night": 7,
+    "package_start_date": "2022-02-05",
+    "package_end_date": "2022-02-12",
+    "package_offers": [
+      "string"
+    ],
+    "package_theme": [
+      "family"
+    ],
+    "package_season": "rainy",
+    "package_thumbail_link": "https://i.ibb.co/1b8bPTR/thumbnail.jpg",
+    "package_average_rating": 4,
+    "package_rate_per_person": 90000,
+    "package_itenary": "Isrilanka_01",
+    "package_gallery_link": [
+      "https://images.unsplash.com/photo-1640885939079-9ce1a8c2b135?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80", "https://images.unsplash.com/photo-1640802105362-26b493a062c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80", "https://images.unsplash.com/photo-1640778707741-75e500f3a81f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80", "https://images.unsplash.com/photo-1640654204373-ccb1a0caa890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=878&q=80", "https://images.unsplash.com/photo-1614082164181-ff8380557f60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+    ],
+    "package_location": "interanational",
+    "package_hotel": [
+      "sl_hotel_1", "sl_hotel_2", "sl_hotel_3", "sl_hotel_4"
+    ],
+    "package_activities": [
+      "water"
+    ],
+    "package_availability": [
+      "avail1"
+    ],
+    "package_cost": "srilanka_cost",
+    "package_status": "top",
+    "package_stay": [
+        {
+            "location": "Kandy",
+            "hotel": "Hotel Cinnamon or similar",
+            "nights": 2,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+          "location": "Bentota",
+          "hotel": "Hotel Cinnamon or similar",
+          "nights": 2,
+          "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "rating": 4
+      },
+        {
+            "location": "Nuwara Eliya",
+            "hotel": "Hotel Grand or similar",
+            "nights": 2,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+            "location": "Colombo",
+            "hotel": "Hotel Taj Samudra",
+            "nights": 2,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        }
+    ]
+  }
+
+
+
+  {       
+    "package_id": "package4",
+    "package_title": "Leh Ladakh",
+    "package_city": "Leh, Ladakh",
+    "package_info": "",
+    "package_cancellation_policy": ["If the Guest decides to cancel the tour for any reason whatsoever then he/she shall give a written application to the company within specified time limit along with original receipt issued by the Company. Such cancellatin will attract Cancellation charges stated hereunder.", "Cancellation charges will be calculated on gross tour cost and the cancellation charges shall depend on date of departure and date of cancellation.",
+    "Cancellation charges for any type of transport ticket are applicable as per the rules of the concerned authority.", "Air tickets issued on special fares are NON REFUNDABLE and Guest shall bear cancellation charges.", "Any refund payable to the Guest will be paid after the Company recieves refund from the respective authorities. The Company deducts processing charges from the refund to be paid to Guest."],
+    "package_lister": "admin",
+    "package_country": "India",
+    "package_total_days": 12,
+    "package_total_night": 11,
+    "package_start_date": "2022-02-19",
+    "package_end_date": "2022-02-26",
+    "package_offers": [
+      "string"
+    ],
+    "package_theme": [
+      "family"
+    ],
+    "package_season": "rainy",
+    "package_thumbail_link": "https://i.ibb.co/1b8bPTR/thumbnail.jpg",
+    "package_average_rating": 4,
+    "package_rate_per_person": 0,
+    "package_itenary": "3sisters",
+    "package_gallery_link": [
+      "https://images.unsplash.com/photo-1640885939079-9ce1a8c2b135?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80", "https://images.unsplash.com/photo-1640802105362-26b493a062c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80", "https://images.unsplash.com/photo-1640778707741-75e500f3a81f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80", "https://images.unsplash.com/photo-1640654204373-ccb1a0caa890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=878&q=80", "https://images.unsplash.com/photo-1614082164181-ff8380557f60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+    ],
+    "package_location": "domestic",
+    "package_hotel": [
+      "hotel1", "hotel2", "hotel3", "hotel4", "hotel5", "hotel6", "hotel7"
+    ],
+    "package_activities": [
+      "water"
+    ],
+    "package_availability": [
+      "avail1"
+    ],
+    "package_cost": "cost1",
+    "package_status": "top",
+    "package_stay": [
+        {
+            "location": "Shilong",
+            "hotel": "Hotel Polo Towers",
+            "nights": 3,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+            "location": "Kaziranga",
+            "hotel": "Borgos The Wild Haven",
+            "nights": 2,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+            "location": "Bhalukpong",
+            "hotel": "Waii International Hotel",
+            "nights": 1,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+            "location": "Dirang",
+            "hotel": "Pemaling Hotel",
+            "nights": 1,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+            "location": "Tawang",
+            "hotel": "Hotel Yangzom",
+            "nights": 2,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+            "location": "Bomdila",
+            "hotel": "Hotel Tsepal Yangjom",
+            "nights": 1,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        },
+        {
+            "location": "Guwahati",
+            "hotel": "Hotel Dynasty",
+            "nights": 1,
+            "image": "https://images.unsplash.com/photo-1587213811864-46e59f6873b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "rating": 4
+        }
+    ]
+  }
+
+
+
+["Return Airfare from Mumbai to Mumbai", "Pickup from and Drop up to Bandaranyke International Airport",
+ "Hotel Accomodation on Twin Sharing Basis", "All meals like Breakfast, Lunch and Dinner at Hotel",
+  "All Sightseeing with Entry Fees in Tempo Travellers with Other Guest", "Transfers on SIC basis in A/C Vehicle with English speaking chauffer",
+  "Other Meal option as per Customer selection as per confirmation", "GST 5% and TCS 5%"]
+
+
+["Any compulsory room supplement during the tour.", "Video and Camera permits at sight.",
+ "Meals outside of the stated meal plan.", "Use of vehicle other than specified itenary.",
+  "Any other services not specified above.", "Early Check-in & Late Check-out at the Hotel (Check-in Time 14:00 hrs & Check-out Time 12:00 Noon)"]
