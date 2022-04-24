@@ -13,6 +13,11 @@ async def create_staff(staff: models.Staff):
     return db.create_staff(staff)
 
 
+@router.get("/staff/all")
+async def read_all_staff():
+    return db.read_all_staff()
+
+
 @router.get("/staff/{staff_id}")
 async def get_staff(staff_id):
     return db.read_staff(staff_id)

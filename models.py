@@ -340,3 +340,4 @@ class Staff(BaseModel):
     staff_name: str
     staff_id: str
     staff_password: str
+    staff_role: str

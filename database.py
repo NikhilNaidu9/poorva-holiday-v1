@@ -1166,8 +1166,8 @@ def create_staff(staff):
 
     with con.cursor() as cur:
 
-        cur.execute("INSERT INTO staff VALUES(%s, %s, %s)",
-                    (staff.staff_name, staff.staff_id, staff.staff_password))
+        cur.execute("INSERT INTO staff VALUES(%s, %s, %s, %s)",
+                    (staff.staff_name, staff.staff_id, staff.staff_password, staff.staff_role))
         con.commit()
 
     # To close the connection
@@ -1191,6 +1191,25 @@ def staff_login(user_id, user_password):
         output = cur.fetchone()
 
         con.commit()
+
+    # To close the connection
+    con.close()
+    return output
+
+
+def read_all_staff():
+    con = pymysql.connect(
+        host="103.148.156.141",
+        database='poorvahol_test',
+        user="poorvahol_user",
+        password=password,
+        cursorclass=pymysql.cursors.DictCursor)
+
+    with con.cursor() as cur:
+
+        cur.execute("SELECT * FROM staff;")
+
+        output = cur.fetchall()
 
     # To close the connection
     con.close()
