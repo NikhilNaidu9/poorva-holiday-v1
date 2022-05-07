@@ -312,8 +312,8 @@ def create_booking(booking, booking_id):
 
     with con.cursor() as cur:
 
-        cur.execute("INSERT INTO booking VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s)",
-                    (booking_id, booking.booking_payment_status, booking.booking_date, booking.booking_rate, booking.booking_user_id, booking.booking_package_id, booking.booking_method, booking.booking_status, manipulate_data(booking.booking_guest_details)))
+        cur.execute("INSERT INTO booking VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)",
+                    (booking_id, booking.booking_payment_status, booking.booking_date, booking.booking_rate, booking.booking_user_id, booking.booking_package_id, booking.booking_method, booking.booking_status, manipulate_data(booking.booking_guest_details), booking.booking_mode, booking.booking_payment_mode, booking.booking_payment_id))
 
         con.commit()
 

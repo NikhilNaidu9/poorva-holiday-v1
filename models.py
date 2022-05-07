@@ -49,6 +49,9 @@ class Booking(BaseModel):
     booking_method: e.BookingMethod
     booking_status: e.BookingStatus
     booking_guest_details: List[dict]
+    booking_mode: Optional[str] = "online"
+    booking_payment_mode: Optional[str]
+    booking_payment_id: Optional[str]
 
     class Config:
         use_enum_values = True
