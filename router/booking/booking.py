@@ -36,7 +36,16 @@ async def read_total_package_booking():
 @router.get("/admin/booking/package")
 async def read_booking_by_package_id(package_id: str):
     outputs = db.read_booking_by_package_id(package_id)
-    return outputs
+
+    result = []
+
+    for output in outputs:
+        
+        output['booking_guest_details'] = db.manipulate_load(output['booking_guest_details'])[0]
+
+        result.append(output)
+
+    return result
 
 
 @router.post("/booking")

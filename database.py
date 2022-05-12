@@ -438,7 +438,7 @@ def read_booking_by_package_id(package_id):
     with con.cursor() as cur:
 
         cur.execute(
-            "SELECT booking_id, booking_date, booking_status, booking_user_id, booking_method FROM booking WHERE booking_package_id=%s;", package_id)
+            "SELECT booking_id, booking_date, booking_status, booking_user_id, booking_method, booking_guest_details FROM booking WHERE booking_package_id=%s;", package_id)
 
         outputs = cur.fetchall()
 
